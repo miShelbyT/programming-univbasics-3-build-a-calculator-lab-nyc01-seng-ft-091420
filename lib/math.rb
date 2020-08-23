@@ -24,6 +24,6 @@ remainder
 end
 
 def square_root(num)
-root = (num)
-root
+sqroot = (num)
+sqroot
 end
