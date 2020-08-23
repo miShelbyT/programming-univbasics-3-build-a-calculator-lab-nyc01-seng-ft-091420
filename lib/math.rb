@@ -14,7 +14,8 @@ div
 end
 
 def multiplication(num1, num2)
-
+mult = num1 * num2
+mult
 end
 
 def modulo(num1, num2)
