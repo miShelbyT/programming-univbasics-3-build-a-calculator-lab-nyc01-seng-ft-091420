@@ -24,5 +24,5 @@ remainder
 end
 
 def square_root(num)
-
+squared = num**num
 end
